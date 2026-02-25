@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+
+# Build folders
+x64/
+Debug/
+Release/
+
+# OpenGL dev libs
+OpenGL_dev_libs - Visual Studio 2022/
+
+# Compiled files
+*.obj
+*.exe
+*.pdb
